@@ -1,4 +1,4 @@
-# Battery Remaining Useful Life (RUL) Prediction System
+# Remaining Useful Life (RUL) Prediction System for EV Batteries
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-lightgrey)
